@@ -1,6 +1,6 @@
 {
   "name": "react-context-pro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "对React useContext进行封装,方便项目内状态管理使用",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
