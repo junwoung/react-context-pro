@@ -10,7 +10,8 @@
     "strict": true,
     "skipLibCheck": true,
     "allowJs": true,
-    "rootDir": "./"
+    "rootDir": "./",
+    "outDir": "./"
   },
   "includes": ["./src"],
   "exclude": ["node_modules", "dist", "demo"]
